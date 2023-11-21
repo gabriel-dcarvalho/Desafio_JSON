@@ -1,0 +1,58 @@
+ [
+    {
+      "nome": "Palácio de Buckingham",
+      "imagem": "/img/buckingham-palacio.jpeg"
+    },
+    {
+      "nome": "Torre de Londres",
+      "imagem": "/img/TowerOfLondon.jpg"
+    },
+    {
+      "nome": "Big Ben",
+      "imagem": "/img/ElizabethTower.jpg"
+    },
+    {
+      "nome": "Abadia de Westminster",
+      "imagem": "/img/abadiawestminster.jpeg"
+    },
+    {
+      "nome": "Museu Britânico",
+      "imagem": "./img/British_Museum.jpg"
+    },
+    {
+      "nome": "Tate Modern",
+      "imagem": "./img/tate-modern1.jpg"
+    },
+    {
+      "nome": "London Eye",
+      "imagem": "./img/LondonEye.webp"
+    },
+    {
+      "nome": "Museu de História Natural",
+      "imagem": "./img/BritishNaturalHistoryMuseum.jpg"
+    },
+    {
+      "nome": "Tower Bridge",
+      "imagem": "./img/TowerBridge.jpg"
+    },
+    {
+      "nome": "St Paul Cathedral",
+      "imagem": "./img/saintpaulcathedral.jpg"
+    },
+    {
+      "nome": "Covent Garden",
+      "imagem": "./img/Coventgarden.jpg"
+    },
+    {
+      "nome": "Notting Hill",
+      "imagem": "./img/NottingHill.jpeg"
+    },
+    {
+      "nome": "Hyde Park",
+      "imagem": "./img/HydePark.jpeg"
+    },
+    {
+      "nome": "Camden Market",
+      "imagem": "./img/CamdenMarket.jpeg"
+    }
+  ]
